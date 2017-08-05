@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="RouteView" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="DemoTheme" parent="Theme.AppCompat.Light">
+
+
+        <item name="colorControlNormal">@color/base_color</item>
+        <item name="colorControlActivated">@color/base_color</item>
+        <item name="colorControlHighlight">@color/base_color</item>
+        <item name="colorPrimary">@android:color/white</item>
+        <item name="colorAccent">@color/base_color</item>
+        <item name="colorPrimaryDark">@color/base_color</item>
+        <item name="android:textColorPrimary">@color/base_color</item>
+
+    </style>
+
+
+</resources>

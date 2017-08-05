@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="item_4">Setting</string>
+    <string name="item_1">Map</string>
+    <string name="item_2">Navigation</string>
+    <string name="item_3">Data</string>
+</resources>
